@@ -1,0 +1,17 @@
+Data manipulation
+- Calculate prisoner age (today - birth date)
+- Calculate age when sentenced
+- Calculate age when put into custody
+
+Simple stat calculations
+- mean and standard deviation of prisoner age at sentence
+- percent of prisoners who are black, white, hispanic, asian
+- percent of prisoners who are serving a life sentence
+
+Data vizualization (super simple - no color)
+
+Data vizualization (less simple - introducing color)
+
+
+
+
