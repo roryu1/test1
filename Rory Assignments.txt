@@ -1,3 +1,5 @@
+Use the June2022 data for calculation
+
 Data manipulation
 - Calculate prisoner age (today - birth date)
 - Calculate age when sentenced
